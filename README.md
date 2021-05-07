@@ -1,9 +1,4 @@
-
-
-English | [简体中文](./README.zh-CN.md)
-
-
-###旅投商城
+#旅投商城
 
 - Clone repo
 ```bash
